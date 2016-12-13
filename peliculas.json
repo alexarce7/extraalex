@@ -1,0 +1,23 @@
+{
+    "results": [{
+            "id": "1",
+            "nombre": "Escuadron Suicida"
+        },
+        {
+            "id": "2",
+            "nombre": "Rapido y Furioso 7"
+        },
+        {
+            "id": "3",
+            "nombre": "X-Men"
+        },
+        {
+            "id": "4",
+            "nombre": "XXX"
+        },
+        {
+            "id": "5",
+            "nombre": "Spider-Man"
+        }
+    ]
+}
