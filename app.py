@@ -40,7 +40,7 @@ class index:
                 costo=10
             total=int(form.d.Tiempo)*costo
             db.insert('peliculas',pelicula=form.d.Pelicula, 
-            formato=form.d.Formato,cliente=form.d.Cliente, 
+            formatos=form.d.Formato,clientes=form.d.Cliente, 
             tiempo=form.d.Tiempo,total=total)
             
             resultado=db.select('peliculas')
